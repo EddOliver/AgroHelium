@@ -51,6 +51,11 @@ Te dejamos en Github en la carpeta de Cert el CA Cert de AWS, el Certificate y e
 
 En Este caso ya que payload que nos esta mandando Helium esta codificado en base64, tenemos que decodificarlo en el NodeRED con el comando **atob()**, para mas informacion de este proceso.
 
+Example:
+
+    const encodedData = window.btoa('Hello, world'); // encode a string
+    const decodedData = window.atob(encodedData); // decode the string
+
 https://developer.mozilla.org/en-US/docs/Glossary/Base64
 
 *
