@@ -1,7 +1,7 @@
 # AgroHelium
 Sustainable platform of sensing and irrigation automation with predictive analysis via the Helium Network.
 
-<img src="https://i.ibb.co/Tbq1r7Y/Logo.png" width="1000">
+<img src="https://i.ibb.co/hCZRyHN/ezgif-com-video-to-gif.gif" width="1000">
 
 This will be the third iteration of two past projects;
 
